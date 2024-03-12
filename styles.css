@@ -28,6 +28,8 @@
 .post-header{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
 }
 
 .post-header p {
@@ -42,9 +44,13 @@
     width: 100%;
 }
 
+.post-header h2{
+    margin-left: 10px;
+}
+
 .post-footer p {
     font-size: 18px;
     margin-left: 15px;
     margin-right: 15px;
-    
+    padding: 0px 15px;
 }
